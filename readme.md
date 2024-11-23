@@ -1,3 +1,5 @@
+https://github.com/ic-png/GS-EDGE-COMPUTING/edit/main/readme.md
+
 ﻿**Integrantes:
 
 Evandro Yuji Kaibara de Oliveira RM 559274
